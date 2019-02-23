@@ -1,6 +1,6 @@
-name: SW_svile
-author: svile
-description: SkyWars plugin.. Fixed by ItzElitePlayz Subscribe:)
+name: SkywarsSvile
+author: vndong1019
+description: SkyWarsSvile Plugin Fixed And New
 main: svile\sw\SWmain
-version: 0.7dev
+version: 1.0
 api: [3.0.0-ALPHA12, 3.0.0, 3.5.1]
